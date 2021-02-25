@@ -1,6 +1,7 @@
 # LeetCode2021
 ## Top Interview Questions
 ### Easy Collection 
+#### Array
 * 2021/02/25 Remove Duplicates from Sorted Array https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
 * 2021/02/25 Best Time to Buy and Sell Stock II https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/
 * 2021/02/25 Rotate Array https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/
@@ -12,3 +13,5 @@
 * 2021/02/25 Two Sum https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/
 * 2021/02/25 Valid Sudoku https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/
 * 2021/02/25 Rotate Image https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/770/
+#### Strings
+* 2021/02/25 Reverse String https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/

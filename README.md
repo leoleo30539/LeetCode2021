@@ -10,3 +10,4 @@
 * 2021/02/25 Plus One https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/
 * 2021/02/25 Move Zeroes https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/
 * 2021/02/25 Two Sum https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/
+* 2021/02/25 Valid Sudoku https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/

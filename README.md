@@ -23,3 +23,5 @@
 * 2021/03/02 Implement strStr() https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/
 * 2021/03/02 Count and Say https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/886/
 * 2021/03/02 Longest Common Prefix https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/887/
+#### Linked List
+* 2021/03/03 Delete Node in a Linked List https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/

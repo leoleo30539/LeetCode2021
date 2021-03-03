@@ -30,3 +30,9 @@
 * 2021/03/03 Merge Two Sorted Lists https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/771/
 * 2021/03/03 Palindrome Linked List https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/772/
 * 2021/03/03 Linked List Cycle https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/773/
+#### Trees
+* 2021/03/03 Maximum Depth of Binary Tree https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/
+* 2021/03/03 Validate Binary Search Tree https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/625/
+* 2021/03/03 Symmetric Tree https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/627/
+* 2021/03/03 Binary Tree Level Order Traversal https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/628/
+* 2021/03/03 Convert Sorted Array to Binary Search Tree https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/631/

@@ -42,4 +42,6 @@
 * 2021/03/03 Merge Sorted Array https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/
 * 2021/03/04 First Bad Version https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/
 #### Dynamic Programming
+* 2021/03/04 Climbing Stairs https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/
 * 2021/03/04 Best Time to Buy and Sell Stock https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/572/
+* 2021/03/04 Maximum Subarray https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/566/

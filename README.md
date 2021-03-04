@@ -33,8 +33,6 @@
 #### Trees
 * 2021/03/03 Maximum Depth of Binary Tree https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/
 * 2021/03/03 Validate Binary Search Tree https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/625/
-#### Dynamic Programming
-* Climbing Stairs https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/
 * 2021/03/03 Symmetric Tree https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/627/
 * 2021/03/03 Binary Tree Level Order Traversal https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/628/
 * 2021/03/03 Convert Sorted Array to Binary Search Tree https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/631/

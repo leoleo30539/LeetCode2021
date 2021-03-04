@@ -37,5 +37,5 @@
 * 2021/03/03 Binary Tree Level Order Traversal https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/628/
 * 2021/03/03 Convert Sorted Array to Binary Search Tree https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/631/
 #### Sorting and Searching
-* Merge Sorted Array https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/
-* 
+* 2021/03/03 Merge Sorted Array https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/
+* 2021/03/04 First Bad Version https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/

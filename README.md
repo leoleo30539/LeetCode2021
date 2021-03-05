@@ -44,3 +44,5 @@
 * 2021/03/04 Best Time to Buy and Sell Stock https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/572/
 * 2021/03/04 Maximum Subarray https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/566/
 * 2021/03/04 House Robber https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/
+#### Design
+* 2021/03/05 Shuffle an Array https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/670/

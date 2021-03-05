@@ -46,3 +46,4 @@
 * 2021/03/04 House Robber https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/
 #### Design
 * 2021/03/05 Shuffle an Array https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/670/
+* 2021/03/05 Min Stack https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/562/

@@ -47,3 +47,8 @@
 #### Design
 * 2021/03/05 Shuffle an Array https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/670/
 * 2021/03/05 Min Stack https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/562/
+#### Math
+* 2021/03/05 Fizz Buzz https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/
+* TODO
+* 2021/03/05 Power of Three https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/
+* 2021/03/05 Roman to Integer https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/878/

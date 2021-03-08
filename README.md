@@ -56,3 +56,6 @@
 * 2021/03/08 Number of 1 Bits https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/565/
 * 2021/03/08 Hamming Distance https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/762/
 * 2021/03/08 Reverse Bits https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/648/
+* 2021/03/08 Pascal's Triangle https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/601/
+* 2021/03/08 Valid Parentheses https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/721/
+* 2021/03/08 Missing Number https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/722/

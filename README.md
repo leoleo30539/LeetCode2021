@@ -52,3 +52,7 @@
 * 2021/03/08 Count Primes https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/744/
 * 2021/03/05 Power of Three https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/
 * 2021/03/05 Roman to Integer https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/878/
+#### Others
+* 2021/03/08 Number of 1 Bits https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/565/
+* 2021/03/08 Hamming Distance https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/762/
+* 2021/03/08 Reverse Bits https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/648/

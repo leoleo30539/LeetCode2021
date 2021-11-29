@@ -1,4 +1,4 @@
-# LeetCode2021
+# LeetCode2021 (Python)
 ## Top Interview Questions
 ### Easy Collection 
 #### Array

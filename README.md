@@ -6,6 +6,7 @@
 * 2021/11/29 Remove Duplicates from Sorted Array https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
 * 2021/11/29 Best Time to Buy and Sell Stock II https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/
 * 2021/11/30 Rotate Array https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/
+* 2021/11/31 Contains Duplicate https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/
 #### Python
 ##### Array
 * 2021/02/25 Remove Duplicates from Sorted Array https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
